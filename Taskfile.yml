@@ -159,8 +159,7 @@ tasks:
     dir: data
     cmds:
       - cut -f 2 lobid-depiction.tsv wikidata-P18.tsv wikidata-P109.tsv | sort -u > commons.txt
-      - python3 ../commons-extract.py < commons.txt > commons-extracted.jsonl
-      - gzip commons-extracted.jsonl
+      - python3 ../commons-extract.py < commons.txt | gzip > commons-extracted.jsonl.gz
     sources:
       - lobid-depiction.tsv
       - wikidata-P18.tsv

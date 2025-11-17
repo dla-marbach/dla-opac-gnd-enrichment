@@ -109,7 +109,7 @@ def main(filenames):
         for page in page_items:
             print(json.dumps(page))
 
-        processed += batch_size
+        processed += len(batch)
         sys.stderr.write("Processed {0}/{1}\n".format(processed, total))
         sys.stderr.flush()
         time.sleep(SLEEP_BETWEEN)
