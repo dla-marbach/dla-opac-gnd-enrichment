@@ -52,18 +52,16 @@ def run_query(encoded_titles):
                 return json.loads(data.decode("utf-8"))
             finally:
                 resp.close()
-        except urllib.error.HTTPError as e:
-            # Fehlerbehandlung: Retry bei HTTP-Fehlern
-            print("HTTP error: {0}".format(e), file=sys.stderr)
+        except (urllib.error.HTTPError, urllib.error.URLError) as e:
+            print("HTTP or URL error: {}: {}".format(type(e).__name__, e), file=sys.stderr)
             if attempt == MAX_RETRIES:
-                raise RuntimeError("HTTP error after {0} attempts: {1}".format(attempt, e))
+                raise RuntimeError("Network error after {} attempts: {}: {}".format(attempt, type(e).__name__, e))
             wait = BACKOFF_FACTOR ** (attempt - 1)
             time.sleep(wait)
-        except urllib.error.URLError as e:
-            # Fehlerbehandlung: Retry bei URL-Fehlern
-            print("URL error: {0}".format(e), file=sys.stderr)
+        except Exception as e:
+            print("Unexpected error: {}: {}".format(type(e).__name__, e), file=sys.stderr)
             if attempt == MAX_RETRIES:
-                raise RuntimeError("URL error after {0} attempts: {1}".format(attempt, e))
+                raise RuntimeError("Unexpected error after {} attempts: {}: {}".format(attempt, type(e).__name__, e))
             wait = BACKOFF_FACTOR ** (attempt - 1)
             time.sleep(wait)
     raise RuntimeError("request failed after retries")
