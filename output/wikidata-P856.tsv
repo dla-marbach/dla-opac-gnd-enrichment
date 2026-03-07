@@ -232,6 +232,7 @@ Q15574	https://www.adelaide.edu.au/
 Q15794	http://tomazsalamun.com/
 Q15897	https://amywinehouse.com
 Q15920	https://www.metallica.com
+Q15935	http://yeezy.com/
 Q15981	http://www.robert-schuman.com
 Q16019	http://www.wolfgang-schaeuble.de
 Q16345	http://www.LeonardNimoyPhotography.com/
@@ -937,6 +938,7 @@ Q77745	http://www.franz-josef-degenhardt.de/
 Q77756	https://www.ulrikeottinger.com/de/
 Q77758	https://www.alexandraneldel.de/
 Q77765	http://www.juliane-werding.de/
+Q77771	http://www.gabi-zimmer.de/
 Q77774	http://www.maria-furtwaengler.de/
 Q77777	http://www.hannelore-elsner.de
 Q77828	http://www.joachimprinz.com
@@ -1642,11 +1644,11 @@ Q130965	https://fordham.edu/
 Q130981	https://cooper.edu/
 Q131132	http://www.osb.org/
 Q131215	https://www.skrapid.at/
-Q131252	https://uchicago.cn
-Q131252	https://uchicago.edu
-Q131252	https://uchicago.hk
-Q131252	https://uchicago.in
-Q131252	https://urb-bd.org
+Q131252	https://uchicago.cn/
+Q131252	https://uchicago.edu/
+Q131252	https://uchicago.hk/
+Q131252	https://uchicago.in/
+Q131252	https://urb-bd.org/
 Q131261	http://www.oliver-kahn.de/
 Q131262	https://www.unibo.it
 Q131318	http://fundacion-jrj.es/
@@ -2381,8 +2383,7 @@ Q229139	http://www.peggylee.com/
 Q229403	https://www.cecelia-ahern.com
 Q229805	https://www.3sat.de/
 Q229996	http://www.jeanauel.com/
-Q230141	https://www.chimamanda.com
-Q230141	https://www.chimamanda.com/
+Q230141	https://chimamanda.com
 Q230237	http://www.polkart.de
 Q230416	http://www.joycefoundation.ch
 Q230456	https://www.alexandra-david-neel.fr
@@ -2533,7 +2534,7 @@ Q255570	http://www.espidofreire.com/
 Q256507	https://www.bsb-muenchen.de/
 Q256590	http://www.biermoesl-blosn.de/
 Q256639	http://www.colinbateman.com
-Q256657	http://www.mihamazzini.com/
+Q256657	https://www.mihamazzini.si/
 Q256662	http://www.nbb.cornell.edu/neurobio/eisner/eisner.html
 Q256671	http://mirandajuly.com
 Q256684	https://www.dbk.de/
@@ -2634,7 +2635,7 @@ Q272797	http://www.antoniapozzi.it/
 Q272852	http://www.annefaustosterling.com/
 Q273033	http://de.wikipedia.org/wiki/Maya_Hakvoort
 Q273183	http://www.elizabeth-connell.com
-Q273263	http://www.rwth-aachen.de
+Q273263	https://www.rwth-aachen.de/
 Q273266	https://www.annafunder.com
 Q273277	http://www.dominiquemanotti.com
 Q273279	https://roaldhoffmann.com
@@ -3007,6 +3008,8 @@ Q318509	http://www.henryrollins.com
 Q318614	https://landesmuseum-bonn.lvr.de/
 Q318633	http://www.arturobenedettimichelangeli.com
 Q318711	http://www.fmeinheit.org/
+Q318815	http://www.uek.ch/de/index.htm
+Q318815	http://www.uek.ch/it/
 Q318815	https://www.uek.ch/en/index.htm
 Q318815	https://www.uek.ch/fr/index.htm
 Q318826	https://www.neue-bachgesellschaft.de/
@@ -3695,7 +3698,7 @@ Q466455	https://www.bfh.ch
 Q466508	http://www.rosemaryclooney.com/
 Q466587	https://www.apa.org/
 Q466606	http://www.howardcruse.com
-Q466664	http://www.hfk-bremen.de/
+Q466664	https://www.hfk-bremen.de/
 Q466718	http://www.ascsa.edu.gr/
 Q466808	http://www.nannibalestrini.info
 Q466928	http://www.asanet.org/
@@ -5893,6 +5896,7 @@ Q1059239	https://www.hazaz.org.il/
 Q1060621	https://www.ankara.edu.tr/
 Q1060621	https://www.ankara.edu.tr/en/
 Q1062129	http://www.tohoku.ac.jp/
+Q1062617	https://www.ipo.co.il/
 Q1063819	http://www.oszk.hu
 Q1065024	https://www.hearst.com/
 Q1065206	https://www1.nyc.gov/site/designcommission/public-programs/city-hall/about-city-hall.page
@@ -5926,7 +5930,6 @@ Q1077103	http://www.chriscleave.com
 Q1077495	https://www.iwm.at
 Q1077639	https://www.iulm.it
 Q1078547	http://www.christfried-schmidt.de
-Q1078672	http://www.cwbz.de
 Q1078672	https://christian-weise-bibliothek-zittau.de/
 Q1079081	http://www.christianbruhn.de
 Q1079140	https://bloomington.iu.edu
@@ -7228,6 +7231,7 @@ Q1508259	https://www.routledge.com/
 Q1509331	https://hauptmannmuseum.de/
 Q1509987	https://www.geraldresch.at/
 Q1510036	http://www.hanksville.org/storytellers/vizenor/
+Q1510395	https://www.achenbach-pp.de/
 Q1510550	http://www.luebben-web.de/
 Q1510639	http://www.gerd-koester.de
 Q1510971	https://www.gerda-henkel-stiftung.de/
@@ -7428,7 +7432,7 @@ Q1572983	https://hamburgercamerata.com/
 Q1573143	https://www.hamburger-sportbund.de/
 Q1573195	https://www.inkultur.de
 Q1573230	http://www.architekturarchiv.de/
-Q1573755	http://www.muhka.be
+Q1573755	https://www.muhka.be
 Q1574185	https://www.ucc.ie
 Q1574550	http://www.unionsverlag.com/
 Q1574877	https://www.handelskammer-bremen.de/
@@ -8968,6 +8972,7 @@ Q2371054	http://www.meinderts-fienieg.nl
 Q2371054	http://www.meinderts-fienieg.nl/koos/frames.html
 Q2371526	http://www.flasspoehler.com/index.php
 Q2373896	http://www.sylkezimpel.de
+Q2374171	https://sylviabrownrigg.com/
 Q2378827	http://www.saechsisches-vocalensemble.de/
 Q2380675	http://www.sueddeutscher-verlag.de
 Q2381930	https://www.sav-rottenburg.de/
@@ -9160,6 +9165,7 @@ Q2528674	http://www.carmenposadas.net
 Q2529303	http://www.marialuisaspaziani.it
 Q2529982	https://www.nytco.com/
 Q2530162	http://www.orn.mpg.de/3216/Standort_Radolfzell
+Q2530232	http://vogler-quartett.de
 Q2530618	http://www.cantabile-regensburg.de
 Q2530961	http://volker-elis-pilgrim.de/
 Q2531118	http://www.vauka-berlin.de
@@ -9375,7 +9381,6 @@ Q2892505	https://french.emory.edu/people/felman-shoshana.html
 Q2896557	http://www.parbleux.qc.ca/
 Q2898075	http://www.ville-et-architecture.com/index.shtml
 Q2898505	http://www.bernardrands.com
-Q2898505	http://www.bernardrands.com/
 Q2901252	http://www.bibliotecapalatina.beniculturali.it/
 Q2901252	http://www.bibpal.unipr.it
 Q2901252	https://complessopilotta.it/
@@ -9773,7 +9778,6 @@ Q3885014	http://www.orchestrasinfonicadiroma.it
 Q3888740	https://www.pacmilano.it/
 Q3897751	https://www.patrickmcguinness.org
 Q3899378	http://www.peppelanzetta.it/
-Q3900936	http://peterschneider-autor.de/
 Q3910611	http://premio.grappanonino.it
 Q3932602	http://www.renatobarilli.it/
 Q3934794	http://www.richarddresser.com
@@ -9824,7 +9828,6 @@ Q4195350	https://maksudibragimbekov.az/
 Q4201878	http://iling-ran.ru/
 Q4211520	https://www.swdko-pforzheim.de/
 Q4227955	http://www.lclark.edu/
-Q4229067	http://kolyada.ur.ru/
 Q4232782	http://www.kordonsky.ru
 Q4255042	http://www.latynin.ru/
 Q4262921	http://lipskerov.ru/
@@ -10127,6 +10130,7 @@ Q6278867	http://www.joriegraham.com
 Q6289738	http://www.joshuacohen.org
 Q6290103	http://thelookofsilence.com
 Q6303321	https://www.minerva.kgi.edu/faculty/arts-and-humanities/
+Q6306210	https://juliablackburn.com/
 Q6306346	http://juliadarling.co.uk/
 Q6352575	http://britishart.yale.edu
 Q6352575	https://britishart.yale.edu/
@@ -10862,6 +10866,7 @@ Q18333276	https://www.kulturgutverluste.de/Webs/DE/Start/Index.html
 Q18333776	https://www.w-lieberknecht.de/
 Q18334235	https://www.smac.sachsen.de/
 Q18341391	https://sophiesumburane.com
+Q18341687	http://www.mediumflow.de/
 Q18345152	https://www.goethe.de/ins/pk/de/index.html
 Q18355929	https://www.oceanvuong.com
 Q18397216	http://www.barbarayelin.de
@@ -10980,7 +10985,7 @@ Q20078544	https://www.uni-tuebingen.de/fakultaeten/philosophische-fakultaet.html
 Q20088183	https://www.fischerverlage.de/verlag/fischer-taschenbuch
 Q20102327	http://grupenciclopedia.cat/fundacio-enciclopedia-catalana/
 Q20111358	https://amichaich.wordpress.com
-Q20164444	http://www.goethe.de/ins/bd/en/dha.html
+Q20164444	http://www.goethe.de/ins/bd/en
 Q20164664	http://www.workuta.de/Joseph_Scholmer/index.html
 Q20180946	http://nauka-polska.pl/dhtml/raporty/ludzieNauki?rtype=opis&objectId=32383&lang=pl
 Q20182117	https://kunstmuseum-magdeburg.de/
@@ -11107,6 +11112,7 @@ Q23008452	http://www.welt.de/autor/ronja-von-roenne/
 Q23008452	http://www.zeit.de/autoren/R/Ronja_von-Roenne/
 Q23008452	https://amadis.net/portfolio-item/ronja/
 Q23008452	https://www.fischerverlage.de/autor/ronja-von-roenne-1008240
+Q23015569	https://rocioceron.com/
 Q23016834	https://essl.leeds.ac.uk/sociology/staff/17/professor-adrian-favell
 Q23020257	http://www.bernhard-theater.ch
 Q23061029	https://www.tu.berlin/wg/ueber-uns/team/prof-dr-friedrich-steinle
@@ -11523,6 +11529,7 @@ Q37474103	https://www.sanderkollaard.nl
 Q37731370	https://amphilsoc.org/library
 Q38085297	https://www.unibw.de/geschichte/prof/neuere/pers/richter
 Q38100056	https://www.haus-fuer-poesie.org
+Q38385740	https://www.jmcalleja.com/
 Q38486509	http://www.svenheuchert.de/
 Q38515539	https://slawistik.univie.ac.at/
 Q38693175	https://www.henrik-ajax.net/
@@ -11607,6 +11614,7 @@ Q48199128	http://www.korrespondenzen.at
 Q48219561	http://www.iasa-online.de/
 Q48627852	http://www.eleves.ens.fr/home/mathys/
 Q48685018	http://ranzenhofer.info/
+Q48688138	https://www.drustvo-dsp.si/natasa-velikonja/
 Q48754950	https://dasda.de/
 Q48755142	https://www.hannover-harmonists.de/
 Q48755307	https://www.ikj-berlin.de/
@@ -12967,3 +12975,4 @@ Q136168135	https://www.ayche.de/
 Q136217723	https://wuellenkemper.de/
 Q136308090	https://thomschwarz.wordpress.com/
 Q136411483	https://www.guenterkrauss.de/
+Q136568147	https://www.mkowsky.de/
