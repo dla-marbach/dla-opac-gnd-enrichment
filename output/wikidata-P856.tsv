@@ -1182,6 +1182,7 @@ Q95149	https://www.harpercollins.com/
 Q95231	https://www.brigittereimann.de/
 Q95270	https://www.hannes-hegen.de/
 Q95329	http://www.pyranja.de/
+Q95337	https://profiles.stanford.edu/hans-weiler
 Q95459	https://saschalobo.com/
 Q95465	https://www.tommyjaud.de/
 Q95569	https://www.khm.at/
@@ -1300,6 +1301,7 @@ Q102480	https://kalkofe.de/
 Q102513	https://harrietbeecherstowecenter.org
 Q102564	http://www.tanjalanger.de/
 Q102657	https://www.falkenhagen.de/
+Q102669	https://www.wolfgangbittner.de/
 Q102672	http://www.christineneubauer.com/
 Q102880	http://www.monika-feth.de
 Q102910	http://www.doritzinn.de
@@ -2357,10 +2359,8 @@ Q221092	https://www.mauritshuis.nl/en/
 Q221130	http://georgelondon.org/
 Q221450	http://www.lucianoberio.org
 Q221645	https://su.se
-Q221653	http://www.uu.nl
-Q221653	https://uu.nl
+Q221653	https://www.uu.nl/
 Q221771	https://www.atxaga.eus
-Q222071	https://www.courtneylove.com
 Q222127	https://www.pumuckl.de/
 Q222450	https://www.zhdk.ch/
 Q222738	http://www.unam.mx
@@ -3264,6 +3264,7 @@ Q365955	http://www.hallgrimur.is/
 Q366062	https://www.tomoffinland.org/
 Q366071	http://www.uz.zgora.pl
 Q366086	https://rupertbrooke.com
+Q366100	https://www.hartmann-gesellschaft.de/en/
 Q366302	http://christianjacq.fr
 Q366521	http://www.shamlou.org/
 Q366597	https://max-elblog.blogspot.com/
@@ -3428,7 +3429,7 @@ Q422412	https://www.aktion-mensch.de/
 Q422465	https://www.asf-ev.de/
 Q422600	https://www.asm-ev.de/
 Q422985	https://www.aktives-museum.de
-Q423298	http://pascal-quignard.fr/
+Q423298	https://pascalquignard.fr
 Q423597	https://www.armisteadmaupin.com/
 Q424509	http://www.hanser-literaturverlage.de/verlage/hanser/literaturzeitschrift-akzente.html
 Q427319	https://www.rbartists.at/kuenstler/sir-andras-schiff
@@ -4815,6 +4816,8 @@ Q706774	https://cbso.co.uk/
 Q706877	https://www.rosenstolz-kassengift.de/
 Q706935	http://williamnicholson.co.uk
 Q707140	http://www.pccu.edu.tw
+Q707140	https://en.pccu.edu.tw/
+Q707140	https://vn.pccu.edu.tw/
 Q707169	http://polisci.lsa.umich.edu/faculty/ringlehart.html
 Q707169	https://cps.isr.umich.edu/people/rfi/
 Q707272	https://www.uni-bamberg.de/
@@ -6362,7 +6365,7 @@ Q1221594	http://www.dbherrmann.de
 Q1221859	http://www.dezimmer.net/
 Q1222518	http://www.barbarella.de/kuenstler/max-moor/
 Q1222740	http://www.salbert.de
-Q1222772	http://dieter-schleip.de
+Q1222772	https://dieter-schleip.de/
 Q1222903	https://www.sueverkruep-malerei.de/
 Q1223204	https://www.diether-dehm.de/
 Q1223305	http://www.dreiche.de
@@ -6405,6 +6408,7 @@ Q1235188	https://www.utopieundalltag.de/
 Q1235191	https://bergen-belsen.stiftung-ng.de/de/
 Q1235251	http://www.paolomantegazza.it
 Q1235561	https://www.uniupo.it
+Q1235650	https://www.theater-ulm.de/
 Q1236032	http://musee-conde.fr/fr/accueil
 Q1236129	https://manuelefior.com/
 Q1236345	https://www.um.es/
@@ -7269,7 +7273,7 @@ Q1518664	https://gvl.de/
 Q1518713	https://www.sulb.uni-saarland.de/
 Q1518713	https://www.sulb.uni-saarland.de/en/
 Q1518713	https://www.sulb.uni-saarland.de/fr/
-Q1519002	http://museefabre.montpellier3m.fr/
+Q1519002	https://www.museefabre.fr/
 Q1519226	http://landesmuseum-burgenland.at
 Q1519715	https://www.jpf.go.jp/
 Q1520105	https://www.hessischer-saengerbund.de/
@@ -8196,6 +8200,7 @@ Q1796604	https://koerber-stiftung.de/
 Q1796710	http://www.koesel.de
 Q1796800	http://www.avitrea.de
 Q1797140	https://www.mousonturm.de/
+Q1797144	http://www.salzburger-kunstverein.at/at/kuenstlerhaus/
 Q1798467	https://www.lwl-industriemuseum.de
 Q1798475	https://www.lwl-museum-kunst-kultur.de/de/
 Q1798475	https://www.lwl-museum-kunst-kultur.de/en/
@@ -10365,6 +10370,7 @@ Q11130954	https://iupress.org/
 Q11197337	https://dwbuffa.com/
 Q11201210	https://www.asmik-grigorian.com/
 Q11203476	http://www.getty.edu/research/
+Q11350146	https://www.rbo.org.uk/about/orchestra
 Q11352289	http://www.jennyhval.com
 Q11508270	https://www.jbpa.or.jp/
 Q11520833	http://www.motoyayukiko.com/
@@ -10388,6 +10394,7 @@ Q11787222	https://mocak.pl
 Q11787240	http://www.muzeum.olsztyn.pl
 Q11801621	http://www.omp.org.pl/
 Q11815242	http://www.pwsz.nysa.pl/
+Q11815242	https://pans.nysa.pl/
 Q11855290	http://christianlollike.dk/
 Q11861442	https://hannusalmi.wordpress.com/
 Q11861442	https://researchportal.helsinki.fi/en/persons/a2840a73-9704-481c-8300-b1dcfbf8456e
@@ -11543,6 +11550,8 @@ Q40065813	http://www.magnus-hirschfeld.de
 Q40313234	http://www.schauspielhaus.ch
 Q40313234	https://www.schauspielhaus.ch/de/
 Q40313234	https://www.schauspielhaus.ch/en/
+Q40436370	http://thomas-seitz.net/
+Q40436370	https://thomas-seitz.net/
 Q40719909	http://stiftungbrandenburgertor.de/
 Q40736988	https://www.th-koeln.de/informations-und-kommunikationswissenschaften/institut-fuer-informationswissenschaft_4134.php
 Q40804106	https://www.lorenz-goesta-beutin.de/
@@ -12088,6 +12097,7 @@ Q76941091	http://www.meissen.com
 Q77002814	https://www.drehbuchautor.de/
 Q77300145	http://michaelscholten.com
 Q78350090	https://www.x-verleih.de/filme/die-kaenguru-chroniken/
+Q78669704	http://tatianatibuleac.net/
 Q78771799	https://nadinebruncosme.wordpress.com/presentation/
 Q80128211	https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/germanistik/professurenfachteile/neuere-deutsche-literaturwissenschaft/professorinnen-und-professoren/prof-dr-andrea-geier
 Q80214871	https://trott-war.de/ueber-uns/
@@ -12355,6 +12365,7 @@ Q98844460	https://muellerundkurfer.de/
 Q98926783	http://www.thomasbhoffmann.de/
 Q99388856	https://beate-winkler.net/
 Q99389958	https://www.asdowidat.de/
+Q99393802	https://aegyptologie.phil-fak.uni-koeln.de/personen/personen/projekt-mitarbeiter/dr-gunnar-sperveslage
 Q99394163	https://www.viktoriagraf.de/
 Q99394450	https://paolo-calleri.de/
 Q99460923	https://germanics.washington.edu/people/richard-gray
