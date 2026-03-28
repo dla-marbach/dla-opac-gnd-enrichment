@@ -168,7 +168,7 @@ Q9396	https://www.telekom.com/
 Q9401	https://www.basf.com
 Q9531	https://bbc.com
 Q9545	https://institute.global/
-Q9592	https://www.vatican.va/content/vatican/it.html
+Q9592	https://vatican.va
 Q9685	https://www.royal.uk/diana-princess-wales
 Q9695	http://www.henrypurcell.org.uk
 Q9696	https://www.whitehouse.gov/about-the-white-house/presidents/john-f-kennedy/
@@ -645,7 +645,7 @@ Q60236	https://www.marie-louisevonfranz.com
 Q60302	http://www.hermannzapf.de
 Q60369	http://www.jakob-wassermann.de
 Q60450	http://www.curtis.edu
-Q60637	https://www.kluge-alexander.de
+Q60637	https://www.kluge-alexander.de/
 Q60659	http://www.utelemper.com/
 Q60694	https://behnisch.com/
 Q60760	https://www.ellenallien.de/
@@ -958,6 +958,7 @@ Q78487	http://www.musilgesellschaft.at/
 Q78516	https://annanetrebko.com
 Q78526	https://www.harnoncourt.info/
 Q78526	https://www.harnoncourt.info/en/
+Q78607	http://www.maislinger.net/
 Q78608	http://www.djerassi.com
 Q78620	http://www.zi.biologie.uni-muenchen.de/~franke/index.html
 Q78632	http://www.richard-tauber.de/
@@ -5406,6 +5407,7 @@ Q877566	http://www.buceriuskunstforum.de/
 Q877567	https://makk.de/
 Q877663	https://www.dd-wast.de/de/startseite.html
 Q877686	https://www.dieangewandte.at/
+Q877778	https://www.george-kranz.com/
 Q877814	https://www.bmf.gv.at/
 Q877925	https://qub.ac.uk/
 Q878325	https://www.stadtmuseum.de/ephraim-palais/
@@ -6426,6 +6428,7 @@ Q1238625	https://www.smi.sachsen.de/
 Q1238676	https://www.koelner-dom.de/besuchen/domschatzkammer
 Q1238787	http://www.domaene-dahlem.de/
 Q1238787	http://www.domaene-dahlem.de/home/stiftung-leitbild/
+Q1240119	https://sybillekraemer.de/
 Q1240353	https://lsa.umich.edu/asian/people/faculty/dlopez.html
 Q1242145	https://www.lettretage.de/
 Q1242145	https://www.lettretage.de/en/
@@ -7102,6 +7105,7 @@ Q1462615	https://www.nada.kth.se/~pohl/
 Q1462615	https://www.nada.kth.se/~pohl/ppforf.html
 Q1463096	http://www.verlagsgruppe-patmos.de/
 Q1464509	https://www.ngv.vic.gov.au/
+Q1464519	https://ricarda-dietz.de/
 Q1465388	https://www.dortmund.de/de/leben_in_dortmund/bildungwissenschaft/fritz_hueser_institut/start_fhi/
 Q1465416	http://www.fritz-reuter-literaturmuseum.de/
 Q1465651	https://www.st-hildas.ox.ac.uk
@@ -9107,7 +9111,7 @@ Q2496316	http://www.uni-kassel.de/ub
 Q2496319	https://www.ub.uni-mainz.de/
 Q2496322	https://www.bib.uni-mannheim.de/
 Q2496324	https://www.uni-marburg.de/de/ub/
-Q2496326	https://www.ub.uni-muenchen.de/
+Q2496326	https://www.ub.lmu.de/
 Q2496328	http://www.ub.uni-paderborn.de
 Q2496330	http://www.uni-regensburg.de/bibliothek/index.html
 Q2496333	http://www.uni-salzburg.at/bibliothek
@@ -9927,7 +9931,7 @@ Q4825919	http://www.authorservicesinc.com/
 Q4834265	http://www.wongar.com/
 Q4849183	https://www.dartmouth.edu/~library/bakerberry/
 Q4865592	https://profiles.stanford.edu/barton-bernstein
-Q4875979	http://www.beacon.org/
+Q4875979	https://www.beacon.org/
 Q4885658	http://www.benfongtorres.com/
 Q4889044	http://benmoser.com/
 Q4890009	http://www.nbi.dk/~lautrup/
@@ -10168,6 +10172,7 @@ Q6524776	http://leonmajor.com/
 Q6538113	http://carolasaavedra.wordpress.com
 Q6548368	https://libraries.indiana.edu/lilly-library
 Q6558122	http://www.lisajarnot.com
+Q6559193	http://www.lissongallery.com/
 Q6585239	http://www.rubinmass.co.il/
 Q6585239	https://sefertov.co.il
 Q6624483	https://www.yaarabendavid.com/
@@ -10342,7 +10347,6 @@ Q9066980	http://realacademiasantelmo.org/
 Q9078432	http://scf.iec.cat/
 Q9082798	http://www.yanjun.org/
 Q9143071	https://www.upsl.edu.pl/
-Q9175741	https://orcid.org/0000000312163061
 Q9185980	http://cbw.wp.mil.pl
 Q9186483	https://u-jazdowski.pl/
 Q9346179	http://www.dzieciholocaustu.org.pl
@@ -11950,7 +11954,6 @@ Q62481611	https://www.kulturkreis.eu/
 Q62482757	https://www.radius-verlag.de/
 Q62483795	https://lnu.se/personal/jon.helgason/
 Q62563612	http://www.franzhammerbacher.at/
-Q62577958	https://orcid.org/0000000246127352
 Q63028033	http://www.soteretorregian.com
 Q63040106	http://www.leif-allendorf.de/
 Q63077722	https://gesellschaft-museum-ludwig.de/
@@ -12524,7 +12527,6 @@ Q108945090	https://zkm.de/de/person/sabine-himmelsbach
 Q109012094	http://www.gerlindethuma.at/
 Q109040831	https://www.jeuneafrique.com/
 Q109101259	https://www.baskwakman.nl/
-Q109268025	https://orcid.org/0000000285672177
 Q109285834	https://www.goerlitz.de/Goerlitzer_Ratsarchiv.html
 Q109296195	http://www.idea-textura.de/
 Q109303415	https://swantjedogunke.com/ueber/
@@ -12933,6 +12935,7 @@ Q131784053	https://www.kunstundbild.de
 Q131825175	https://martin-fontanellaz.com/
 Q131861031	https://www.rotes-antiquariat.de/
 Q131867826	https://www.sabine-planka.de/
+Q132127292	https://www.eloainlovis.de/
 Q132190975	https://lehr-kunstauktionen.de/
 Q132192130	https://levy-galerie.de/
 Q132270802	https://ingrid-glomp.de/
@@ -12995,3 +12998,6 @@ Q136217723	https://wuellenkemper.de/
 Q136308090	https://thomschwarz.wordpress.com/
 Q136411483	https://www.guenterkrauss.de/
 Q136568147	https://www.mkowsky.de/
+Q138504206	https://timothy-speed-papers.org/
+Q138504206	https://timothy-speed.com/
+Q138504206	https://timothy-speed.org/
