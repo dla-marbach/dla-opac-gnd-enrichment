@@ -156,7 +156,7 @@ Q8889	https://www.europarl.europa.eu/
 Q8896	https://www.consilium.europa.eu/
 Q8908	https://www.coe.int
 Q9049	https://chomsky.info/
-Q9212	https://army.mil
+Q9212	https://www.army.mil
 Q9322	https://www.deutschebahn.com/
 Q9325	https://www.lufthansa.com/
 Q9325	https://www.lufthansa.com/de/de/
@@ -181,7 +181,7 @@ Q10700	http://www.germaniajudaica.de
 Q11005	https://www.parliament.uk/business/commons/
 Q11036	https://rollingstones.com
 Q11207	https://www.arri.com/en
-Q11209	https://www.war.gov/
+Q11209	https://war.gov/
 Q11224	https://www.uscg.mil/
 Q11268	https://www.congress.gov
 Q11649	https://nirvana.com/
@@ -1394,7 +1394,6 @@ Q106797	https://www.lucivanorg.de/
 Q106834	https://www.mirjampressler.de/
 Q106920	http://www.uli-keuler.de
 Q106935	http://www.wollekriwanek.de/
-Q107006	https://official-claudiacardinale.com
 Q107039	http://sashamariannasalzmann.com/en/
 Q107085	http://www.ivansteiger.de
 Q107089	http://www.enke1.de/
@@ -1472,6 +1471,7 @@ Q113285	http://www.paologenovese.info
 Q113430	http://www.christianfoersch.de/htm/arbeiten_01.htm
 Q113433	http://www.franzobel.at
 Q113463	https://www.gerhardschulze.de/
+Q113483	https://clement-moreau.ch/
 Q113626	http://www.urzidil.de/
 Q113669	http://oliver-poetzsch.de
 Q113757	http://www.arno-geiger.de
@@ -1608,6 +1608,7 @@ Q124949	http://www.franzhohler.ch
 Q124949	https://www.franzhohler.ch/
 Q124986	https://fredi-murer.ch
 Q125069	https://www.georggerster.com
+Q125133	http://www.fundacionvictorjara.org/
 Q125169	https://gerd-koenen.eu/
 Q125408	http://www.lizpichon.co.uk
 Q125497	http://www.susanneabbuehl.com/
@@ -1900,6 +1901,7 @@ Q161976	http://www.uni-wuerzburg.de/
 Q161976	http://www.uni-wuerzburg.de/en/
 Q161982	https://www.uni-mainz.de/
 Q162027	http://www.fit-ift.org/
+Q162027	https://www.fit-ift.org
 Q162077	http://www.antike-am-koenigsplatz.mwn.de/de/glyptothek-muenchen.html
 Q162077	https://www.antike-am-koenigsplatz.mwn.de/en/glyptothek-munich.html
 Q162111	http://www.smb.museum/museen-und-einrichtungen/alte-nationalgalerie/home.html
@@ -1968,6 +1970,7 @@ Q172140	http://www.michaelcrichton.com/
 Q172505	https://fundacionapiazzolla.org
 Q172584	http://www.deanreed.de/
 Q172599	http://www.leopardi.it
+Q172911	http://ilya-repin.ru/
 Q173061	https://www.sydbarrett.com/
 Q173714	https://www.maxeuwe.nl
 Q174158	https://international.huji.ac.il/chinese
@@ -2856,6 +2859,7 @@ Q312653	http://www.dpa.de/
 Q312674	https://www.giorgiomoroder.com/
 Q312698	http://www.delius.org.uk
 Q312720	http://www.robertpennwarren.com/
+Q312753	http://www.jmserrat.com
 Q312786	https://mapplethorpe.org
 Q312788	http://www.porporaproject.com
 Q312837	http://www.cwrightmills.org
@@ -3602,6 +3606,8 @@ Q455697	http://www.landtag-bw.de/
 Q455852	https://kathrynlasky.com
 Q456586	http://www.prinzregententheater.de/
 Q456677	http://irenetheorin.com/
+Q456865	http://www.haindling.com/
+Q456865	http://www.haindling.de/
 Q456988	https://www.redcross.ch/
 Q456994	https://www.mmk.art/de
 Q457183	https://www.br.de/radio/br-klassik/muenchner-rundfunkorchester/
@@ -3830,6 +3836,7 @@ Q494280	https://www.scartazzini.com/
 Q494287	http://www.iwallerstein.com/
 Q494976	http://bjbear71.com/Winding/Kai.html
 Q495243	http://www.andreavitali.net
+Q495467	http://www.andreae-gymnasium.de
 Q495754	https://profiles.stanford.edu/tobias-wolff
 Q496159	https://www.birkigt-photographie.com
 Q497594	https://www.junge-union.de/
@@ -4700,7 +4707,7 @@ Q691291	http://www.dg-chrono.info/
 Q691641	https://www.dso-berlin.de/
 Q691896	https://www.landesmuseum.ch
 Q692217	http://english.arnedahl.net
-Q692936	http://www.tcs.ch
+Q692936	https://www.tcs.ch/
 Q693032	https://governor.maryland.gov/
 Q693453	https://www.mphil.de/
 Q693459	http://www.soerenjessen.com/
@@ -5304,6 +5311,7 @@ Q857340	http://www.bva-bielefeld.de/
 Q860166	http://www.imarabe.org/
 Q860387	http://www.college-de-france.fr/site/antoine-compagnon/index.htm
 Q860570	https://www.fotomarburg.de/
+Q860581	https://www.bpk-bildagentur.de
 Q860812	https://www.mbam.qc.ca/en/
 Q860812	https://www.mbam.qc.ca/fr/
 Q861042	https://www.westernunion.com
@@ -5928,7 +5936,7 @@ Q1068072	https://www.udel.edu/
 Q1068258	https://www.ucd.ie/
 Q1068752	https://howard.edu
 Q1069131	https://nyas.org
-Q1069279	https://www.bfz.hu/
+Q1069279	https://www.bfz.hu
 Q1069349	https://www.touringclub.it/
 Q1069418	http://www.kalle.de
 Q1070333	https://www.uark.edu/
@@ -7171,9 +7179,6 @@ Q1484029	http://www.veraislerleiner.com/
 Q1484300	http://www.prixjeunesse.de/
 Q1484566	https://www.landeshauptarchiv.de/
 Q1484980	https://www.pap.pl/
-Q1484980	https://www.pap.pl/en
-Q1484980	https://www.pap.pl/ru
-Q1484980	https://www.pap.pl/ua
 Q1485113	https://gedok.de/
 Q1485220	https://www.gesis.org/
 Q1485499	http://www.ggp-media.de/
@@ -7639,7 +7644,7 @@ Q1622186	http://www.hfjs.eu/
 Q1622216	https://www.htwk-leipzig.de/en/htwk-leipzig/
 Q1622216	https://www.htwk-leipzig.de/startseite/
 Q1622237	http://www.hfbk-hamburg.de/
-Q1622950	http://www.hofbibliothek-ab.de
+Q1622950	https://www.hofbibliothek-ab.de
 Q1623314	https://www.hofstra.edu
 Q1623391	https://www.hogrefe.com/de/
 Q1623660	https://www.weinsberg.de/freizeit-und-kultur/museen-und-austellungen/kernerhaus-und-alexanderhaeuschen/
@@ -8880,6 +8885,7 @@ Q2313012	https://www.vandenhoeck-ruprecht-verlage.com/journal-spritz?c=1880
 Q2313012	https://www.vr-elibrary.de/journal/spri
 Q2320758	http://www.jorisvancasteren.nl
 Q2320966	http://www.manuelrivas.com/
+Q2321845	http://www.sannevogel.nl/
 Q2324294	https://www.abk-stuttgart.de/
 Q2324301	http://www.gda.bayern.de
 Q2324301	http://www.gda.bayern.de/english/
@@ -9092,7 +9098,7 @@ Q2475371	https://hope.edu/
 Q2475379	https://museumulm.de/
 Q2475398	http://www.ulmer-verein.de/?page_id=13825
 Q2475667	https://www.chaussy.info/
-Q2476154	http://www.renfe.com
+Q2476154	https://www.renfe.com
 Q2477178	http://www.ulrikremy.com/
 Q2478801	http://www.uroslajovic.si
 Q2484404	https://www.ynharari.com
@@ -9237,6 +9243,7 @@ Q2571772	https://www.sgae.es
 Q2572062	http://www.braumueller.at/
 Q2572330	https://www.education.gouv.fr/
 Q2576541	http://www.will-mcbride-art.com/
+Q2576969	https://espai-marx.net/sacristan/
 Q2576969	https://manuelsacristan.blogspot.com/
 Q2577467	https://www.pauliencornelisse.nl/
 Q2577645	https://www.williwottreng.ch/
@@ -10192,6 +10199,7 @@ Q6647741	https://www.ltikorea.or.kr/
 Q6674179	https://www.prolongomaif.ch/
 Q6686731	https://www.louisbayard.com
 Q6696619	https://luciaberlin.com
+Q6698377	https://www.lucyjanebledsoe.com/
 Q6730288	http://dornsife.usc.edu/cwphd/maggie-nelson
 Q6737336	https://ratkje.no/
 Q6747553	https://manchesteruniversitypress.co.uk/
@@ -10792,6 +10800,7 @@ Q16996096	http://www.leedsphilandlit.org.uk/
 Q16999339	http://www.juenger-haus.de/
 Q17019217	https://www.kingston.ac.uk/about/staff/professor-simon-wortham
 Q17080885	http://www.iofc.org/
+Q17091513	https://beverlysemmesstudio.com/
 Q17100641	https://www.gislekverndokk.com
 Q17101284	http://www.goethe.de/newyork
 Q17106365	http://www.oscar-k.dk
@@ -11949,6 +11958,7 @@ Q61897067	https://www.goethe.de/ins/cs/de/
 Q61932027	https://jesuiten.at/innsbruck/
 Q61940959	http://susamonteiro.wixsite.com/susa
 Q61946777	https://andreaskellerhals.ch
+Q61965546	https://heidi-reichinnek.de/
 Q61976201	https://olivierarson.com/
 Q61983377	https://katyderbyshire.com/
 Q62019787	https://eva-siewert.de/
@@ -12520,6 +12530,7 @@ Q107345407	https://lularomero.com/
 Q107383086	https://www.nickthurston.info/
 Q107548652	https://www.uibk.ac.at/zeitgeschichte/index.html
 Q107608394	https://www.tft.ucla.edu/blog/2011/09/09/faculty-janet-bergstrom/
+Q107615412	http://fred-ape.de/
 Q107622221	https://www.sudetendeutsches-museum.de/
 Q107650388	https://comicnurse.com/
 Q108000629	https://seydakurt.de/
