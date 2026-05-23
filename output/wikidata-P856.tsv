@@ -78,8 +78,7 @@ Q4441	https://www.emilydickinson.org/
 Q4457	http://www.franzbeckenbauer.de/
 Q4573	https://www.seanconnery.com/
 Q4583	https://www.annefrank.org
-Q4612	http://www.marlene.com
-Q4612	https://marlene.com/
+Q4612	https://marlene.com
 Q4614	https://usc.cn
 Q4614	https://usc.edu
 Q4616	https://marilynmonroe.com
@@ -2738,7 +2737,7 @@ Q290261	http://www.janneteller.dk
 Q290306	https://www.shahrnushparsipur.com
 Q290502	https://cristinaperirossi.es
 Q290536	https://www.ramdass.org/
-Q290549	http://www.museocapodimonte.beniculturali.it
+Q290549	https://capodimonte.cultura.gov.it/
 Q290852	https://www.nationaltheater-mannheim.de/
 Q291174	http://www.andreimarga.eu
 Q291500	http://www.emma-andiyevska.com/
@@ -3009,6 +3008,7 @@ Q317886	http://www.walter-eucken-institut.de/
 Q317944	http://www.philharmonie-nuernberg.de
 Q317950	https://www.wlb-stuttgart.de/
 Q318022	https://www.nwd-philharmonie.de/
+Q318060	http://www.henrisalvador-discographie.com/
 Q318084	https://www.beethoven.de/
 Q318118	https://www.mpiwg-berlin.mpg.de/
 Q318174	http://www.smb.museum/museen-und-einrichtungen/museum-europaeischer-kulturen/home.html
@@ -3019,6 +3019,7 @@ Q318309	http://fondazionegiorgiobassani.it/
 Q318364	http://www.mercecunningham.org/
 Q318374	http://rycooder.com
 Q318431	http://www.ianrankin.net
+Q318475	https://www.randynewman.com/
 Q318487	https://www.jamesellroy.net/
 Q318509	http://www.henryrollins.com
 Q318614	https://landesmuseum-bonn.lvr.de/
@@ -3323,6 +3324,7 @@ Q372035	http://www.emilynasrallah.com
 Q372210	http://larsgustafssonblog.blogspot.ru/
 Q372217	https://www.lesleyblanch.com/
 Q372313	http://www.enriquevilamatas.com
+Q372489	http://haroldfaltermeyer.net/
 Q372533	https://johnboyne.com
 Q372535	http://juricapavicic.com/
 Q372577	https://www.liornavok.com/
@@ -3626,6 +3628,7 @@ Q457207	http://www.peter-ruzicka.de/
 Q457233	http://www.dfg-vk.de
 Q457241	http://www.mmwarburg.com/
 Q457281	https://illinois.edu
+Q457353	http://www.bentekahan.eu
 Q457363	http://www.claimscon.org
 Q457480	http://www.soledadpuertolas.es
 Q457601	https://andrewgreer.com/
@@ -3909,7 +3912,7 @@ Q510144	https://www.sprengel-museum.de/
 Q510144	https://www.sprengel-museum.de/en
 Q510220	http://www.staatstheater.stuttgart.de/ballett/english/start.htm
 Q510254	http://www.landeskirche-hannovers.de/
-Q510324	https://www.visitpham.org/
+Q510324	https://www.philamuseum.org/
 Q510511	http://www.hessischer-landtag.de/
 Q511108	http://nationaltheatre.org.uk/
 Q511224	http://derrick.zdf.de
@@ -6055,6 +6058,7 @@ Q1122401	https://www.ernstmolden.com/
 Q1122455	http://www.rotpunktverlag.ch
 Q1122570	https://www.cesareangelini.it/
 Q1122595	https://www.fieldmuseum.org/
+Q1123092	http://www.schwoissfuass.de
 Q1123124	https://museum-franken.de/en/
 Q1123974	http://www.agentur-schneider-berlin.de/lena-lauzemis
 Q1124095	https://www.musee-moyenage.fr/
@@ -6218,6 +6222,7 @@ Q1194533	https://www.antanassutkus.com/
 Q1194823	https://koihm.ru/
 Q1194988	https://www.univ-paris8.fr/
 Q1196033	http://www.myspace.com/ninoshouseband
+Q1196259	https://www.osm.ca/fr/
 Q1196885	http://www.dersingendetresen.de
 Q1198571	https://www.sophia-antipolis.fr/en/studying/
 Q1201272	https://www.detlef-horster.de/
@@ -6410,6 +6415,7 @@ Q1223342	http://www.dietmar-bittrich.de
 Q1223585	http://www.wischmeyer.de
 Q1223694	https://d-trick.de/en
 Q1223883	http://www.dietrich-kittner.de
+Q1223954	https://www.dietrich-murswiek.de/
 Q1225099	https://www.giessen.de/museum
 Q1225116	https://www.lesbelleslettres.com/
 Q1225493	http://elger-esser.com
@@ -8485,6 +8491,7 @@ Q1929515	https://www.sturminger.com/
 Q1929895	http://www.michaelwolgensinger.ch
 Q1930074	https://www.michaelamay.de/
 Q1930925	https://boogblog.wordpress.com
+Q1931383	http://www.micki-meuser.com
 Q1932957	http://uni.opole.pl/en
 Q1933558	http://www.univ-tlse2.fr/
 Q1934460	http://deflo-luc.blogspot.com
@@ -9612,7 +9619,6 @@ Q3185114	http://www.josephincardona.com/
 Q3186238	http://teatroficina.com.br
 Q3188804	https://julesmonnerot.com/
 Q3189172	http://atmaclassique.com/Fr/Artistes/ArtisteInfo.aspx?ArtisteID=1331
-Q3189731	https://juliette-store.fr/
 Q3193259	https://karin-rehnqvist.se/
 Q3193267	http://www.karinagauvin.com
 Q3193279	http://www.karinedeshayes.com/
@@ -11572,6 +11578,7 @@ Q30338077	https://www.thomasperle.com/
 Q30534793	https://www.land.nrw/de/das-amt-des-ministerpraesidenten
 Q30569887	https://www.ministerpraesident.sachsen.de/
 Q30584228	https://www.thueringen.de/th1/tsk/tsk/mp/
+Q31029722	http://www.kaththeol.uni-muenchen.de/ueber_die_fak/gesch_fakultaet/profs_1826_2013/samerski/index.html
 Q31068298	https://www.saarland.de/389.htm
 Q31096505	https://www.baden-wuerttemberg.de/de/regierung/ministerpraesident/
 Q31096505	https://www.baden-wuerttemberg.de/en/government/minister-president/
@@ -11958,6 +11965,8 @@ Q60056931	http://www.thescreenshots.de/
 Q60169078	https://www.goethe.de/ins/de/de/kur/ort/bre.html
 Q60178289	https://www.goethe.de/ins/de/de/kur/ort/swh.html
 Q60178289	https://www.goethe.de/ins/de/en/ort/swh.html
+Q60241812	https://leucorea.de/
+Q60241812	https://leucorea.de/en/
 Q60345091	https://www.pedro-meier-artist.ch/
 Q60500503	https://www.buchenwald.de
 Q60535420	https://www.caritas-wien.at/
@@ -12923,6 +12932,7 @@ Q123498480	https://www.iai.spk-berlin.de/es/investigacion/investigadors/prof-dra
 Q123498480	https://www.iai.spk-berlin.de/forschung/wissenschaftlerinnen/prof-dr-barbara-goebel.html
 Q123498480	https://www.iai.spk-berlin.de/pt/pesquisa/pesquisadors/prof-dra-barbara-goebel.html
 Q123516986	https://www.mimos.ch/sgtk/
+Q123582174	https://schreibtrieb.com/
 Q123665882	https://www.weizenbaum-institut.de/portrait/p/dietmar-kammerer/
 Q123693382	https://www.konkret-literatur-verlag.de/klv/
 Q123909211	https://staedelverein.de/
