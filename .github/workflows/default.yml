@@ -1,6 +1,8 @@
 name: default
 on:
   workflow_dispatch: # allows you to run this workflow manually from the Actions tab
+permissions:
+  contents: write
 jobs:
   main:
     runs-on: ubuntu-latest
