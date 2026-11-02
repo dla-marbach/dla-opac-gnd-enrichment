@@ -32,7 +32,7 @@ Die in [Taskfile.yml](Taskfile.yml) definierten Tasks können auch einzeln ausge
 * `commons-transform`: Aus imageinfo eine Rechteangabe generieren
 * `output`: Plausibilitätsprüfung und ggf. Kopie der Daten in das Verzeichnis output
 
-Der GitHub Actions Workflow [default.yml](.github/workflows/default.yml) führt den Gesamtprozess aus und lädt anschließend die neu generierten Daten mit einem Commit ins GitHub Repository.
+Der GitHub Actions Workflow „Daten aktualisieren“ ([update.yml](.github/workflows/update.yml)) führt den Gesamtprozess aus und legt die neu generierten Daten als Pull Request vor. Der Ablauf für Änderungen, Datenaktualisierung und Release steht in der [CONTRIBUTING.md](CONTRIBUTING.md); alles Nötige für die Entwicklung enthält der Devcontainer (`.devcontainer/`).
 
 ## Daten
 

@@ -1,0 +1,62 @@
+# Führt die gesamte Pipeline aus und legt neu erzeugte Daten als Pull Request
+# vor, nicht per Direkt-Commit auf main (siehe CONTRIBUTING.md, „Daten
+# aktualisieren“). Start von Hand unter „Actions“ → „Daten aktualisieren“.
+# Voraussetzung: Settings → Actions → General → „Allow GitHub Actions to
+# create and approve pull requests“ (nur Anlegen; gemergt wird von Menschen).
+# Actions sind per Commit-SHA gepinnt, Dependabot aktualisiert SHA und Kommentar.
+name: Daten aktualisieren
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    name: Pipeline ausführen und Pull Request öffnen
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write # Datenbranch pushen
+      pull-requests: write # Pull Request öffnen
+      actions: write # CI für den Datenbranch starten
+    steps:
+      # Credentials bleiben erhalten, sie werden für den Push des Datenbranches gebraucht.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      # go-task per Kommandozeile statt Fremd-Action, mit fester Version und
+      # Prüfsumme. Updates von Hand, zusammen mit .devcontainer/Dockerfile.
+      - name: go-task installieren
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TASK_VERSION: 3.54.0
+        working-directory: ${{ runner.temp }}
+        run: |
+          gh release download "v${TASK_VERSION}" --repo go-task/task \
+            --pattern task_linux_amd64.tar.gz --pattern task_checksums.txt
+          sha256sum --check --ignore-missing task_checksums.txt
+          tar -xzf task_linux_amd64.tar.gz task
+          echo "$RUNNER_TEMP" >> "$GITHUB_PATH"
+      - name: Pipeline ausführen
+        run: task
+      # Pull Requests mit dem GITHUB_TOKEN lösen keine Workflows aus, deshalb
+      # wird die CI für den Branch ausdrücklich gestartet.
+      - name: Pull Request öffnen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(git status --porcelain -- output/)" ]; then
+            echo "Keine Änderungen in output/."
+            exit 0
+          fi
+          today="$(date +%F)"
+          branch="daten/${today}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add output
+          git commit -m "Daten aktualisiert ${today}"
+          git push origin "$branch"
+          gh pr create --base main --head "$branch" \
+            --title "Daten aktualisiert ${today}" \
+            --body "Automatisch erzeugt vom Workflow „Daten aktualisieren“ (${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}). Vor dem Merge Diff auf Plausibilität prüfen, siehe CONTRIBUTING.md."
+          gh workflow run ci.yml --ref "$branch"
