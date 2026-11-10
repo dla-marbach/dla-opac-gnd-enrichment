@@ -20,11 +20,11 @@ Das Projekt läuft nicht als Container. Release, Deployment und Rollback sind de
 
 Neue Daten kommen nie per Direkt-Commit auf `main`, sondern per Pull Request.
 
-1. **Workflow starten:** „Actions“ → „Daten aktualisieren“ → „Run workflow“. Der Workflow führt `task` aus; die Task `output` bricht ab, wenn eine Datei deutlich kleiner wird als bisher. Gibt es Änderungen, legt er einen Branch `daten/JJJJ-MM-TT` mit Pull Request an und startet dafür die CI.
+1. **Workflow starten:** „Actions“ → „Daten aktualisieren“ → „Run workflow“. Der Workflow führt `task` aus; die Task `output` bricht ab, wenn eine Datei deutlich kleiner wird als bisher. Gibt es Änderungen, legt er einen Branch `daten/JJJJ-MM-TT-<Lauf-ID>-<Versuch>` mit Pull Request an und startet dafür die CI.
 2. **Prüfen:** Diff-Statistik im Pull Request auf Plausibilität prüfen (in der Regel überwiegend neue Zeilen), CI grün.
 3. **Squash-Merge**, danach ein Patch-Release.
 
-Automatische Läufe (z. B. ein Scheduler im DLA) committen ebenfalls nicht auf `main`. Sie starten den Workflow (`gh workflow run update.yml`) oder legen wie er einen Branch `daten/JJJJ-MM-TT` mit Pull Request an.
+Automatische Läufe (z. B. ein Scheduler im DLA) committen ebenfalls nicht auf `main`. Sie starten den Workflow (`gh workflow run update.yml`) oder legen wie er einen eigenen Branch `daten/JJJJ-MM-TT-…` mit Pull Request an.
 
 ## Release
 
@@ -54,4 +54,4 @@ dla-opac-transform lädt `output/` produktiv von einem Release-Tag, nicht von `m
 
 ## Projektspezifisch
 
-- Datenaktualisierungen über den Workflow „Daten aktualisieren“ brauchen kein eigenes Ticket und nutzen Branches `daten/JJJJ-MM-TT`. Begründung: Sie wiederholen sich regelmäßig und sind gleichartig, ähnlich wie Dependabot-PRs. Fällt beim Prüfen etwas auf, wird dafür ein Ticket angelegt.
+- Datenaktualisierungen über den Workflow „Daten aktualisieren“ brauchen kein eigenes Ticket und nutzen Branches `daten/JJJJ-MM-TT-…`. Begründung: Sie wiederholen sich regelmäßig und sind gleichartig, ähnlich wie Dependabot-PRs. Fällt beim Prüfen etwas auf, wird dafür ein Ticket angelegt.

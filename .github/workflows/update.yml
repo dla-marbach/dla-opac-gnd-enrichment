@@ -49,7 +49,9 @@ jobs:
             exit 0
           fi
           today="$(date +%F)"
-          branch="daten/${today}"
+          # Lauf-ID und Versuch im Namen: Weitere Läufe am selben Tag und
+          # Wiederholungen bekommen eigene Branches, statt beim Push abgelehnt zu werden.
+          branch="daten/${today}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git switch -c "$branch"
