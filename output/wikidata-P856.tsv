@@ -211,7 +211,6 @@ Q7000	http://www.silbermond.de/
 Q7060	https://frontpopulaire.fr/
 Q7060	https://michelonfray.com/
 Q7184	https://nato.int
-Q7241	https://de.wikipedia.org/w/index.php?oldid=237189982
 Q7243	https://leotolstoy.blog/
 Q7251	http://www.turingarchive.org/
 Q7294	https://www.brahms-institut.de/index.php/de/allgemeines
@@ -380,7 +379,7 @@ Q22555	https://goethe-gym-ger.de/
 Q22563	http://www.gerd-dudenhoeffer.de
 Q22675	http://tom-wlaschiha.de/
 Q22686	https://donaldjtrump.com
-Q22780	http://www.nub.ba/
+Q22780	https://www.nub.ba/
 Q22838	https://www.speyer.de/de/kultur/bildende-kunst/purrmann-haus/
 Q23283	http://www.l-hotel.com
 Q23308	https://bl.uk
@@ -460,7 +459,7 @@ Q35733	https://www.hlebnikov.ru
 Q35794	https://www.cam.ac.uk/
 Q36107	http://ali.com
 Q36153	https://beyonce.com
-Q36184	http://www.bramstoker.org
+Q36184	https://www.bramstokerestate.com/
 Q36188	https://www.unifr.ch
 Q36233	https://www.vaclavhavel.cz
 Q36268	https://www.brigitte-bardot.fr
@@ -550,8 +549,6 @@ Q44306	https://salmanrushdie.com
 Q44336	https://thomasbernhard.at
 Q44398	https://www.falco.at/
 Q44398	https://www.officialfalco.com/
-Q44403	https://de.wikipedia.org/w/index.php?oldid=254683355
-Q44403	https://www.deutsche-biographie.de/gnd118548018.html#ndbcontent
 Q44461	https://richarddawkins.com/
 Q44461	https://www.richarddawkins.net
 Q44507	https://www.stoiber.de/
@@ -698,6 +695,7 @@ Q55419	http://www.kinski.de
 Q55433	http://www.michelangeloantonioni.it/
 Q55767	https://www.astridlindgren.com
 Q55834	http://www.wojciech-jaruzelski.pl/
+Q55917	https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=148
 Q56009	https://archive.is/20130216040138/http://www.ginalollobrigida.com/
 Q56010	https://www.bundeswehr.de/de
 Q56010	https://www.bundeswehr.de/en
@@ -818,7 +816,6 @@ Q62346	https://www.katja-riemann.de
 Q62352	http://www.johannes-heesters.de
 Q62358	https://jonaskaufmann.com/
 Q62365	http://www.kaschnitz.de/sites/biofr.html
-Q62373	http://www.max-bense.de
 Q62410	http://www.westbam.de/
 Q62435	https://scheerbart.de
 Q62559	https://richardwagner.jimdo.com/
@@ -1775,6 +1772,7 @@ Q127990	https://www.anu.edu.au/
 Q128121	http://www.mickjagger.com
 Q128297	https://www.maria-callas.com/en/
 Q128560	https://grahamgreenebt.org
+Q128894	http://www.ybz.org.il
 Q129092	http://fernandel.online.fr/
 Q129421	https://ucdavis.edu
 Q130101	http://www.bismarck-gymnasium.de/
@@ -1951,7 +1949,13 @@ Q156578	https://www.volkswagenag.com/
 Q156578	https://www.volkswagenag.com/de.html
 Q156578	https://www.volkswagenag.com/en.html
 Q156591	https://www.yadvashem.org/
-Q156591	https://www.yadvashem.org/he.html
+Q156591	https://www.yadvashem.org/ar.html
+Q156591	https://www.yadvashem.org/de
+Q156591	https://www.yadvashem.org/es.html
+Q156591	https://www.yadvashem.org/fa.html
+Q156591	https://www.yadvashem.org/fr.html
+Q156591	https://www.yadvashem.org/he
+Q156591	https://www.yadvashem.org/ru.html
 Q156622	http://www.fondazionedechirico.org/?lang=it
 Q156700	http://www.erich-heckel.de/
 Q156725	https://www.uni-hamburg.de/
@@ -2128,7 +2132,6 @@ Q176815	https://www.ipu.org
 Q176893	http://www.alte-hofbibliothek.de/alte-hofbibliothek-donauesching/historie/
 Q177368	https://www.koelner-philharmonie.de/
 Q177848	http://www.astro.physik.uni-goettingen.de/index.de.html
-Q178065	https://centrepompidou.fr
 Q178293	http://www.mauricio-kagel.com/gb/biografy.html
 Q178848	https://www.nd.edu/
 Q179036	https://www.catholic.edu/
@@ -2988,6 +2991,7 @@ Q310950	http://www.thomaslfriedman.com
 Q311005	https://alain-badiou.jimdofree.com/
 Q311439	https://ecmrecords.com/
 Q311476	http://www.perolovenquist.nl
+Q311499	http://imichurin.narod.ru/Index.html
 Q311684	http://www.michaelignatieff.ca/
 Q311729	https://www.timothygartonash.com/
 Q311744	http://dennislehane.com/
@@ -3070,7 +3074,7 @@ Q314790	https://www.rodenstock.de/
 Q314843	http://www.louisbegley.com
 Q315021	https://www.hdg.de/
 Q315021	https://www.hdg.de/en/
-Q315090	http://www.gostacykeach.com/
+Q315090	https://www.gostacykeach.com/
 Q315147	http://platonov-ap.ru
 Q315154	http://www.abtei-muensterschwarzach.de/
 Q315161	https://www.ku.de/en/
@@ -3094,7 +3098,7 @@ Q315715	http://www.laphil.com
 Q315715	https://es.laphil.com/
 Q315753	http://www.lehmbruckmuseum.de
 Q315753	https://lehmbruckmuseum.de/museum-english/
-Q315883	https://www.ritmanlibrary.com/
+Q315883	https://hermetica.uva.nl
 Q315894	http://www.klingspor-museum.de/
 Q316005	https://karikatur-museum.de/
 Q316015	http://www.suhrkamp.de/insel_verlag_67.html
@@ -3220,7 +3224,7 @@ Q323169	https://www.smb.museum/mk
 Q323186	https://sarkis.fr
 Q323259	https://www.muema-theater.de/
 Q323270	https://www.slub-dresden.de/
-Q323722	http://www.batesmotel.com/
+Q323722	https://www.batesmotel.com
 Q323728	https://www.dosb.de/
 Q323795	http://emilschult.de/
 Q323945	http://www.geomar.de
@@ -4110,6 +4114,7 @@ Q517252	http://www.boucourechliev.com/html_eng/index.htm
 Q517554	http://www.andre-buecker.de
 Q517716	https://www.yassinhs.com/
 Q517743	https://andrechamson.fr
+Q517815	https://www.andrechouraqui.com
 Q518711	https://landsmannschaft-schlesien.de/
 Q518784	http://lolaarias.com/
 Q519367	https://jesus-soto.com/
@@ -4704,6 +4709,7 @@ Q666410	https://acadsci.fi/en/
 Q666572	https://www.schaulager.org
 Q666614	http://www.christengemeinschaft.org
 Q666763	http://www.terterian.org
+Q666875	http://aurelstodola.sk/
 Q666916	https://www.uvigo.gal/
 Q666916	https://www.uvigo.gal/en
 Q666916	https://www.uvigo.gal/es
@@ -5926,7 +5932,7 @@ Q962442	https://martinparr.com/
 Q963091	http://www.pinchas-steinberg.com/
 Q963727	http://www.markzdanielewski.com
 Q963930	http://www.johantheorin.com
-Q964098	http://www.landesbibliothek.li/
+Q964098	https://www.landesbibliothek.li/
 Q964137	https://ervinlaszlobooks.com/
 Q964180	http://www.robertdarnton.org/
 Q964283	https://www.filmmuseum-potsdam.de/
@@ -7507,6 +7513,7 @@ Q1504962	http://www.georgkatzer.de/
 Q1505289	http://www.georg-maas.eu/
 Q1505328	https://www.jamesruncie.com/
 Q1505531	https://www.olms.de/
+Q1505612	http://www.pacelli-edition.de/Biographie/16085
 Q1505706	http://www.schwabenverlag.de
 Q1506059	http://www.mla.org
 Q1506138	http://www.noep.at/
@@ -9034,7 +9041,7 @@ Q2153257	http://www.rimini-protokoll.de
 Q2155346	http://chantalmontellier.com/
 Q2156203	http://www.robert-bosch-gesamtschule.de/
 Q2156227	https://jungk-bibliothek.org/
-Q2156263	http://www.robert-schumann-haus.de
+Q2156263	https://www.schumann-zwickau.de/
 Q2156901	http://www.robertdomes.com/
 Q2157899	http://www.sfu.ac.at/
 Q2158369	https://www.nippoldt.de
@@ -9127,7 +9134,7 @@ Q2256489	https://www.sgg-ssh.ch/fr/
 Q2256489	https://www.sgg-ssh.ch/it/
 Q2256497	https://www.sgs-sss.ch/en/
 Q2256552	http://www.sog.ch/
-Q2256644	http://www.bnnonline.it/
+Q2256644	https://www.bnnonline.it/it/1/home
 Q2256716	https://www.sik-isea.ch
 Q2256718	https://www.nationalmuseum.ch
 Q2256734	http://www.sozialarchiv.ch/
@@ -9363,7 +9370,7 @@ Q2417184	https://www.fontanearchiv.de/
 Q2417230	https://thg-heilbronn.de/
 Q2417887	http://theodorkramer.at
 Q2418625	http://fredrikkempe.se
-Q2420821	http://www.thienemann-esslinger.de/verlag/
+Q2420821	https://www.thienemann.de/
 Q2421843	http://www.thomas-mann-schule.de/
 Q2422357	http://www.thomasbeimel.de
 Q2422475	http://www.agnespoirier.org/
@@ -9701,6 +9708,8 @@ Q2801609	http://www.akm.at/
 Q2801998	https://www.dasind.de/
 Q2802195	http://www.muzeum.szczecin.pl
 Q2803416	http://www.schmidt-kowalski.de/
+Q2815153	http://jonklassen.tumblr.com
+Q2815153	http://www.burstofbeaden.com/
 Q2821160	http://www.laabi.net
 Q2822396	http://www.accademiadellescienze.it/
 Q2822396	https://www.accademiadellescienze.it
@@ -10530,7 +10539,7 @@ Q6375824	http://www.kaetempest.co.uk/
 Q6375873	https://kzambreno.com/
 Q6376040	https://www.katerina-tuckova.cz/
 Q6377017	http://kathryncave.com
-Q6382871	http://www.bncrm.beniculturali.it
+Q6382871	https://bncr.cultura.gov.it/
 Q6388044	https://www.kenludwig.com/
 Q6392193	https://history.illinois.edu/directory/profile/khitchin
 Q6395772	http://kevinbaker.info/
@@ -10666,6 +10675,7 @@ Q7445830	http://rbsc.princeton.edu/mudd
 Q7455079	https://serpentstail.com/
 Q7477615	http://fraukepetry.net/
 Q7493065	http://www.sheilaheti.com/
+Q7513133	https://sigridnunez.com
 Q7518823	http://www.simongarfield.com
 Q7541712	http://www.drustvo-dsp.si/drustvo/drustvo.html
 Q7555701	http://www.peinturessolange.com.br
@@ -10760,6 +10770,7 @@ Q10506971	https://www.goethe.de/ins/se/de/index.html
 Q10520592	https://helmet.finna.fi/
 Q10583424	https://www.metopera.org/
 Q10685157	https://www.svenskapen.se/
+Q10726962	https://www.domowina-verlag.de/
 Q10858601	http://www.rooftopsoftehran.com
 Q10862311	http://www.inselhombroich.de/
 Q11087699	http://www.ucl.cas.cz
@@ -11400,7 +11411,6 @@ Q19946286	http://www.jorismusik.de/
 Q19951282	http://www.foto-haus.info
 Q19963065	https://geschichtsverein-markgraeflerland.de/
 Q19963232	https://museen.esslingen.de/start/gelbes_haus.html
-Q19963734	https://www.donauwoerth.de/museen/kaethe-kruse-puppen-museum/
 Q19963875	https://www.theater-on.de
 Q19964894	https://www.vgh-stiftung.de/
 Q19965315	https://museum-freiberg.de/
@@ -11518,7 +11528,6 @@ Q21638921	http://www.robertdevriendt.be/
 Q21675830	http://www.janvanriet.com
 Q21681010	http://www.dsdm-film.de/
 Q21777894	http://www.sinamartens.com/
-Q21809557	http://www.bowker.com/
 Q21832735	https://www.elisabiagini.it/online/
 Q21898136	http://www.gerold-verlag.at
 Q22032294	https://pestalozzianum.ch/
@@ -12691,6 +12700,7 @@ Q94935144	http://www.tigerwilli.de/
 Q94957078	https://www.lukaskummer.com/
 Q94997931	https://www.tabeasteiner.ch/
 Q95076006	https://www.ariaaber.com/
+Q95184080	http://www.persephonehaasis.de/
 Q95184145	https://www.anjavatter.com/anja-vatter
 Q95184270	https://www.franziskahesse.com/
 Q95186033	http://snowrousian.wordpress.com/
@@ -12716,6 +12726,7 @@ Q95199043	https://www.katrinpitz.de/
 Q95199420	https://zeitgeschichte-online.de/autoren/claudia-bade-0
 Q95200135	https://betweenthetimes.tlu.ee/
 Q95200976	http://sabine-hartmann-sibbesse.de/
+Q95201586	https://web.archive.org/web/20070405073130/http://www.anitafriedrich.de/
 Q95201653	https://germanics.washington.edu/people/sabine-wilke
 Q95201838	https://www.wiebkehuester.de/
 Q95202253	https://www.xn--koffer-im-gepck-dlb.de/franziskarichter
@@ -13391,6 +13402,7 @@ Q124359966	https://paul-soerensen.de/
 Q124537800	https://www.heeyleonie.de
 Q124539532	https://harryhachmeister.com/
 Q124628850	https://www.vhs-karlsruhe.de/
+Q124683639	https://monika-pfundmeier.com/
 Q124711819	https://www.vhsrt.de
 Q124711824	https://www.vhs-neuss.de
 Q124801203	https://www.musikadler.de
@@ -13487,6 +13499,7 @@ Q132127292	https://www.eloainlovis.de/
 Q132190975	https://lehr-kunstauktionen.de/
 Q132192130	https://levy-galerie.de/
 Q132270802	https://ingrid-glomp.de/
+Q132282574	https://www.katjaschreibt.de
 Q132348198	https://www.clarastellahueneke.com/
 Q132396092	https://www.ernst-rietschel.com/
 Q132665637	http://www.delstres.es/
@@ -13520,6 +13533,7 @@ Q134100526	https://www.bmk.gv.at
 Q134296332	https://anadrezga.com/
 Q134336678	https://www.derekwelton.com
 Q134481053	http://www.archiwum.archidiecezja.wroc.pl/history.php
+Q134488158	https://synergia-auslieferung.de/breiner-prof-tobias-m-1030.html
 Q134504835	https://www.ralphneumueller.at/
 Q134524210	https://noemiyokomolitor.com/
 Q134529237	https://www.nefelikavouras.de/
@@ -13564,6 +13578,7 @@ Q136774748	https://www.nicolaquass.com
 Q137075911	https://jr-duennweller.de
 Q137128489	https://michaelmoser.net/
 Q137128736	https://donaldfriedman.com/bio/
+Q137132621	https://susannevonbuelow.com
 Q137179588	https://www.roderikvanderstraeten.de/
 Q137312762	https://www.fabianbross.de
 Q137349827	https://christianbettges.de/
